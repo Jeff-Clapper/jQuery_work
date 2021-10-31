@@ -1,0 +1,19 @@
+.jQuery_function {
+    border-bottom: 2px solid black;
+}
+
+.jQuery_function {
+    display: flex;
+    justify-content: left;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.red {
+    color:red;
+}
