@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+}
+
+#base {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 50px;
+    height: 100vh;
+
+}
+.image {
+    margin: 2px;
+    width: 200px;
+    height: 150px;
+}
